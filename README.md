@@ -1,1 +1,1 @@
-# Scripts_teamfightmanager
+#악용금지
